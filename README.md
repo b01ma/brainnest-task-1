@@ -1,2 +1,2 @@
-# brainnest-front-end-lsn-1
-html structure
+# brainnest-task-1
+Create an HTML sementic structure
